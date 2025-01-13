@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713985387895",
+    "project_id": "appdrone-88d4b",
+    "storage_bucket": "appdrone-88d4b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713985387895:android:0c052e487b16b122238572",
+        "android_client_info": {
+          "package_name": "com.example.appdron"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAByQUw7OLIBOF9I5TqERtLBdlSve74BKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
