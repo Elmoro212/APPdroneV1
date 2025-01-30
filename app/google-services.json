@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "713985387895",
+    "firebase_url": "https://appdrone-88d4b-default-rtdb.europe-west1.firebasedatabase.app",
     "project_id": "appdrone-88d4b",
     "storage_bucket": "appdrone-88d4b.firebasestorage.app"
   },
@@ -9,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:713985387895:android:0c052e487b16b122238572",
         "android_client_info": {
-          "package_name": "com.example.appdron"
+          "package_name": "com.example.appdrone"
         }
       },
       "oauth_client": [],

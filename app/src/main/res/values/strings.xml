@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">APPdrone</string>
+    <string name="mapbox_access_token">xohB6JQsCMOiSRC1BkCs</string>
 </resources>
